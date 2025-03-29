@@ -1,5 +1,6 @@
 # Miscellaneous
 *.class
+<<<<<<< HEAD
 *.log
 *.pyc
 *.swp
@@ -46,6 +47,16 @@ lib/gameScreen.dart
 lib/homePage.dart
 lib/personInformation.dart
 lib/resultScreen.dart
+=======
+*.lock
+*.log
+*.pyc
+*.swp
+.buildlog/
+.history
+
+
+>>>>>>> 7d6ec5322e2c23dbd92499e1d10097809bdf91d6
 
 # Flutter repo-specific
 /bin/cache/
@@ -154,4 +165,8 @@ app.*.symbols
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+<<<<<<< HEAD
 !/dev/ci/**/Gemfile.lock
+=======
+!/dev/ci/**/Gemfile.lock
+>>>>>>> 7d6ec5322e2c23dbd92499e1d10097809bdf91d6
